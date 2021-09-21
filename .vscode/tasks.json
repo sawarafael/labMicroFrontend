@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "departamento-app/departamento/",
+			"problemMatcher": [],
+			"label": "npm: start - departamento-app/departamento",
+			"detail": "ng serve"
+		}
+	]
+}
